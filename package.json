@@ -1,6 +1,6 @@
 
 {
-  "name": "Bwm-xmd",
+  "name": "JOE-xmd",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -16,12 +16,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "bmw",
+    "JOE",
     "whatsapp",
     "whatsapp-bot",
-    "Ibrahim-Adams"
+    "SEJOTECH-MD"
    ],
-  "author": "Ibrahim Adams",
+  "author": "JOSEPHMWANGI",
   "license": "ISC",
   "engines": {
     "node": "18.x",
