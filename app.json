@@ -1,9 +1,9 @@
 
 {
-  "name":"BWM-XMD",
-  "description":"Best whatsapp bot developed by Ibrahim adams",
+  "name":"JOE-XMD",
+  "description":"Best whatsapp bot developed by JOSEPH MWANGI",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/h2ydge.jpg",
+  "logo":"https://files.catbox.moe/kwam01.jpg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -85,7 +85,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/h2ydge.jpg",
+      "value":"https://files.catbox.moe/kwam01.jpg",
       "required":false
        
      },
@@ -108,7 +108,7 @@
     "NUMERO_OWNER":
     {
       
-    "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
+    "description":"Enter here the number that is hosting the bot Eg, 254114305147",   
       "value":"",
     "required":true
       
@@ -118,7 +118,7 @@
     
     "desc": "Owner name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "*JOSEPH MWANGI "
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
